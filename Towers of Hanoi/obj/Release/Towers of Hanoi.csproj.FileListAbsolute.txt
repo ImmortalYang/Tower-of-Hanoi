@@ -1,0 +1,10 @@
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Release\Towers of Hanoi.exe.config
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Release\Towers of Hanoi.exe
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\bin\Release\Towers of Hanoi.pdb
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers of Hanoi.csprojResolveAssemblyReference.cache
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers_of_Hanoi.HelpForm.resources
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers_of_Hanoi.MainForm.resources
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers_of_Hanoi.Properties.Resources.resources
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers of Hanoi.csproj.GenerateResource.Cache
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers of Hanoi.exe
+C:\Temp\Towers of Hanoi\Towers of Hanoi\Towers of Hanoi\obj\Release\Towers of Hanoi.pdb
